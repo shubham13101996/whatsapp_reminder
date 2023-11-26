@@ -10,4 +10,4 @@ Step 7 : Type npm start to run the NodeJs server.<br/>
 ![Alt text](<Screenshot (134).png>)
 
 ## Do's In APP
-You need to set the time for the reminder and specify the content for reminder , when the real time match with the reminder time then the reminder message will be send to the whatsapp number you set in the code(feed in database).
+You can set the reminder time for the medicine and other health related reminder and specify the content for reminder , when the real time match with the reminder time then the reminder message will be send to the particular whatsapp number that  set in the code(feed in database).
